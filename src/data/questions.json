@@ -1,0 +1,11 @@
+[
+  { "id": "q-reg-01", "topic": "regulations", "question": "A remote pilot certificate is valid for how long?", "options": ["12 calendar months", "24 calendar months", "36 calendar months"], "correctAnswer": "24 calendar months" },
+  { "id": "q-reg-02", "topic": "regulations", "question": "What is the maximum legal weight for an sUAS?", "options": ["55 lbs", "Less than 55 lbs", "55 kg"], "correctAnswer": "Less than 55 lbs" },
+  { "id": "q-air-01", "topic": "airspace", "question": "Which class of airspace requires ATC authorization for sUAS operations?", "options": ["Class G", "Class E", "Both B and C"], "correctAnswer": "Class E" },
+  { "id": "q-air-02", "topic": "airspace", "question": "What does a TFR stand for?", "options": ["Temporary Flight Restriction", "Terminal Flight Rules", "Traffic Flow Regulation"], "correctAnswer": "Temporary Flight Restriction" },
+  { "id": "q-wx-01", "topic": "weather", "question": "What is a TAF?", "options": ["A report of current weather conditions", "A forecast of weather conditions", "A pilot report of weather"], "correctAnswer": "A forecast of weather conditions" },
+  { "id": "q-wx-02", "topic": "weather", "question": "What effect does high density altitude have on aircraft performance?", "options": ["It increases performance", "It decreases performance", "It has no effect on performance"], "correctAnswer": "It decreases performance" },
+  { "id": "q-load-01", "topic": "loading", "question": "What is the term for the ratio of the total air load acting on the aircraft to the gross weight of the aircraft?", "options": ["Load limit", "Load factor", "Gross load"], "correctAnswer": "Load factor" },
+  { "id": "q-ops-01", "topic": "operations", "question": "What does the 'C' in the DECIDE model of ADM stand for?", "options": ["Choose", "Communicate", "Control"], "correctAnswer": "Choose" },
+  { "id": "q-ops-02", "topic": "operations", "question": "What hazardous attitude is characterized by the thought 'Don't tell me'?", "options": ["Macho", "Anti-authority", "Resignation"], "correctAnswer": "Anti-authority" }
+]

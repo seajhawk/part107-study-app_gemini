@@ -1,0 +1,13 @@
+
+[
+  { "id": "fc-reg-01", "topic": "regulations", "term": "sUAS Weight Limit", "definition": "Less than 55 lbs (25 kg)" },
+  { "id": "fc-reg-02", "topic": "regulations", "term": "Remote Pilot Certificate Validity", "definition": "24 calendar months" },
+  { "id": "fc-air-01", "topic": "airspace", "term": "Class B Airspace", "definition": "Surrounds the nation's busiest airports" },
+  { "id": "fc-air-02", "topic": "airspace", "term": "TFR", "definition": "Temporary Flight Restriction" },
+  { "id": "fc-wx-01", "topic": "weather", "term": "METAR", "definition": "Aviation Routine Weather Report (current weather)" },
+  { "id": "fc-wx-02", "topic": "weather", "term": "Density Altitude", "definition": "Pressure altitude corrected for non-standard temperature" },
+  { "id": "fc-load-01", "topic": "loading", "term": "Load Factor", "definition": "The ratio of the total air load acting on the aircraft to the gross weight of the aircraft" },
+  { "id": "fc-ops-01", "topic": "operations", "term": "ADM", "definition": "Aeronautical Decision-Making" },
+  { "id": "fc-ops-02", "topic": "operations", "term": "CRM", "definition": "Crew Resource Management" },
+  { "id": "fc-ops-03", "topic": "operations", "term": "Hazardous Attitude: Invulnerability", "definition": "'It won't happen to me.'" }
+]

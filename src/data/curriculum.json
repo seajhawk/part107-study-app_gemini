@@ -1,0 +1,51 @@
+[
+  {
+    "id": "regulations",
+    "title": "I. Applicable Regulations",
+    "subtopics": [
+      { "id": "reg-01", "title": "General", "contentFile": "regulations/general.md" },
+      { "id": "reg-02", "title": "Operating Rules", "contentFile": "regulations/operating_rules.md" },
+      { "id": "reg-03", "title": "Remote Pilot Certification", "contentFile": "regulations/certification.md" },
+      { "id": "reg-04", "title": "Waivers", "contentFile": "regulations/waivers.md" }
+    ]
+  },
+  {
+    "id": "airspace",
+    "title": "II. Airspace",
+    "subtopics": [
+      { "id": "air-01", "title": "Airspace Classification", "contentFile": "airspace/classification.md" },
+      { "id": "air-02", "title": "Special Use Airspace", "contentFile": "airspace/special_use.md" },
+      { "id": "air-03", "title": "Other Airspace Areas", "contentFile": "airspace/other_airspace.md" },
+      { "id": "air-04", "title": "Flight Restrictions", "contentFile": "airspace/restrictions.md" }
+    ]
+  },
+  {
+    "id": "weather",
+    "title": "III. Aviation Weather",
+    "subtopics": [
+      { "id": "wx-01", "title": "Aviation Weather Sources", "contentFile": "weather/sources.md" },
+      { "id": "wx-02", "title": "Effects of Weather on Performance", "contentFile": "weather/effects.md" }
+    ]
+  },
+  {
+    "id": "loading",
+    "title": "IV. Aircraft Loading",
+    "subtopics": [
+      { "id": "load-01", "title": "Weight and Balance", "contentFile": "loading/weight_balance.md" }
+    ]
+  },
+  {
+    "id": "operations",
+    "title": "V. Airport and Aircraft Operations",
+    "subtopics": [
+      { "id": "ops-01", "title": "Emergency Procedures", "contentFile": "operations/emergency.md" },
+      { "id": "ops-02", "title": "Crew Resource Management", "contentFile": "operations/crm.md" },
+      { "id": "ops-03", "title": "Radio Communication Procedures", "contentFile": "operations/radio.md" },
+      { "id": "ops-04", "title": "Determining Aircraft Performance", "contentFile": "operations/performance.md" },
+      { "id": "ops-05", "title": "Physiological Factors", "contentFile": "operations/physiological.md" },
+      { "id": "ops-06", "title": "Aeronautical Decision-Making", "contentFile": "operations/adm.md" },
+      { "id": "ops-07", "title": "Airport Operations", "contentFile": "operations/airport_ops.md" },
+      { "id": "ops-08", "title": "Maintenance and Preflight Inspections", "contentFile": "operations/maintenance.md" }
+    ]
+  }
+]

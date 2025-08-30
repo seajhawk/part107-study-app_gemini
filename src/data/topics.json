@@ -1,0 +1,54 @@
+
+[
+  {
+    "id": "regulations",
+    "title": "Regulations",
+    "description": "Covers the operating rules, remote pilot certification, and waivers under Part 107.",
+    "subtopics": [
+      { "id": "reg-01", "title": "General Operating Limitations" },
+      { "id": "reg-02", "title": "Remote Pilot in Command (Remote PIC) Responsibilities" },
+      { "id": "reg-03", "title": "Flight Operations" },
+      { "id": "reg-04", "title": "Waivers" }
+    ]
+  },
+  {
+    "id": "airspace",
+    "title": "Airspace and Requirements",
+    "description": "Covers airspace classifications, requirements, and flight restrictions.",
+    "subtopics": [
+      { "id": "air-01", "title": "Airspace Classifications" },
+      { "id": "air-02", "title": "Special Use Airspace" },
+      { "id": "air-03", "title": "Airport Operations" }
+    ]
+  },
+  {
+    "id": "weather",
+    "title": "Weather",
+    "description": "Covers aviation weather reports, forecasts, and the effects of weather on drone performance.",
+    "subtopics": [
+      { "id": "wx-01", "title": "Aviation Weather Reports & Forecasts" },
+      { "id": "wx-02", "title": "Weather Effects on Performance" },
+      { "id": "wx-03", "title": "Cloud Clearance" }
+    ]
+  },
+  {
+    "id": "performance",
+    "title": "Loading and Performance",
+    "description": "Covers weight and balance, and aircraft performance.",
+    "subtopics": [
+      { "id": "perf-01", "title": "Weight and Balance" },
+      { "id": "perf-02", "title": "Performance Charts" }
+    ]
+  },
+  {
+    "id": "operations",
+    "title": "Operations",
+    "description": "Covers aeronautical decision-making, crew resource management, emergency procedures, and more.",
+    "subtopics": [
+      { "id": "ops-01", "title": "Aeronautical Decision-Making (ADM)" },
+      { "id": "ops-02", "title": "Crew Resource Management (CRM)" },
+      { "id": "ops-03", "title": "Emergency Procedures" },
+      { "id": "ops-04", "title": "Physiological Factors" }
+    ]
+  }
+]
